@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina López Vega</h1>
-<h3 align="center">A fullstack software developer from Colombia</h3>
+<h3 align="center">A junior software developer from Colombia</h3>
 
 - 🔭 I’m currently working on **Migo – A web app for managing pet medical records**
 
